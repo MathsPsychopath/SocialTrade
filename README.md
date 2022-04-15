@@ -1,4 +1,4 @@
-# SubTrader
+# SocialTrade
 
 ## What is this?
 
